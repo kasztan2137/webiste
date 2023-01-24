@@ -258,7 +258,7 @@ color: rgba(255, 255, 255, 0.46) !important
     }
     
     #commands-minigrid {
-        background-color: #3F423D;
+        background-color: #a2a8bd;
         border-radius: 10px;
         padding: 10px 30px 10px 30px;
         margin-top: 10px;
@@ -270,7 +270,8 @@ color: rgba(255, 255, 255, 0.46) !important
     }
     
     #commands-desc {
-        color: whitesmoke;
+        color: black;
+        font-weight: 600;
     }
 
 .commandsp {
